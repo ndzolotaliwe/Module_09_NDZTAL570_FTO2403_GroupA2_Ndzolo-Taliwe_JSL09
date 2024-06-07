@@ -15,7 +15,7 @@ Note that this background image is dynamically generated so your's will look dif
 
 ## What You Need to Do:
 
-1. Clone the provided Starter Code Repository to your local development environment (e.g., VSCode): https://github.com/CodeSpace-Academy/Module_09_StudentNo_Classcode_Group_Name-Surname_JSL09
+1. Clone the provided Starter Code Repository to your local development environment (e.g., VSCode): https://github.com`/CodeSpace-Academy/Module_09_StudentNo_Classcode_Group_Name-Surname_JSL09
 2. Open the cloned project in your code editor.
 3. Code your solution for the challenge as per the provided instructions.
 4. If you have coded your Personal Dashboard challenge in Scrimba, you will need to download the zip folder of your project files. Unzip the project files into your JSL09 project repo on GitHub. Make sure to NOT use the Scrimba README. Instead you will keep your starter code README.
